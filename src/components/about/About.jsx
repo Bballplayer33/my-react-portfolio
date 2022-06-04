@@ -1,5 +1,5 @@
 import React from 'react'
-import '.about.css'
+import './about.css'
 
 const about = () => {
   return (
@@ -7,4 +7,4 @@ const about = () => {
   )
 }
 
-export default About
+export default about
