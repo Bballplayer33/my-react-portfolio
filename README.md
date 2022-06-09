@@ -4,7 +4,7 @@
 My react portfolio showcasing my latest work, enjoy.
 
 ## Visit
-[Check Out My Portfolio Here!](https://bballplayer33.github.io/my-react-portfolio)
+[Check Out My Portfolio Here!]()
 
 ## License
 ![MIT License](https://img.shields.io/badge/license-MIT-green)
